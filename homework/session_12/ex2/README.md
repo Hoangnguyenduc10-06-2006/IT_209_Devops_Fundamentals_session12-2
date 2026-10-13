@@ -1,5 +1,6 @@
 # BÁO CÁO THỰC HÀNH CI/CD: TỰ ĐỘNG ĐÓNG GÓI VÀ PHÁT HÀNH DOCKER IMAGE LÊN GITHUB PACKAGES (GHCR) THEO GIT TAG
 
+![alt text](image.png)
 > **Môn học:** IT-209 – DevOps Fundamentals  
 > **Bài thực hành:** Session 12 – Bài 2 (Exercise 2)  
 > **Đường dẫn nộp bài:** `homework/session_12/ex2/`  
@@ -149,8 +150,4 @@ git push origin v1.0.0
 
 ---
 
-## 6. Kết quả minh chứng (Ảnh chụp màn hình)
 
-*(Dán ảnh minh chứng gói Docker Image v1.0.0 trên GitHub Packages vào tệp `image.png`)*
-
-![GitHub Packages Image Release](image.png)
