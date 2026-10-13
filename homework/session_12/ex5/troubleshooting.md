@@ -1,5 +1,5 @@
 # BÁO CÁO PHÂN TÍCH VÀ KHẮC PHỤC SỰ CỐ CI/CD PIPELINE (TROUBLESHOOTING REPORT)
-
+![alt text](image.png)
 > **Môn học:** IT-209 – DevOps Fundamentals  
 > **Bài thực hành:** Session 12 – Bài 5 (Exercise 5)  
 > **Đường dẫn nộp bài:** `homework/session_12/ex5/`  
@@ -215,9 +215,3 @@ jobs:
    - Toàn bộ các bước: `Grant execute permission for gradlew`, `Run Unit Tests`, `Log in to Docker Registry`, `Build and push Docker image` đều hoàn thành với trạng thái **Success** (Tích xanh).
 
 ---
-
-## 6. Kết quả minh chứng (Ảnh chụp màn hình tích xanh)
-
-*(Dán ảnh chụp màn hình tab Actions tích xanh vào tệp `image.png`)*
-
-![Pipeline Fixed Success](image.png)
